@@ -1,0 +1,382 @@
+,image_id,type,question,answer,address,prediction
+0,synpic54082,modality,modality shown?,cta - ct angiography,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic54082.jpg,ct noncontrast
+1,synpic48556,modality,mri taken contrast?,no,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic48556.jpg,no
+2,synpic50696,modality,type contrast patient have?,iv,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic50696.jpg,ct with iv contrast
+3,synpic37194,modality,imaging method used?,us-d - doppler ultrasound,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic37194.jpg,us - ultrasound
+4,synpic31308,modality,modality shown?,an - angiogram,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic31308.jpg,mra - mr angiography/venography
+5,synpic24739,modality,mr weighting image?,t2,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic24739.jpg,t2
+6,synpic32365,modality,ct scan?,yes,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic32365.jpg,no
+7,synpic47936,modality,type contrast patient have?,gi and iv,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic47936.jpg,gi and iv
+8,synpic29792,modality,iv contrast given patient?,yes,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic29792.jpg,yes
+9,synpic43561,modality,ct scan taken contrast?,yes,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic43561.jpg,yes
+10,synpic40732,modality,imaging modality used take image?,mr - flair,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic40732.jpg,mr - flair
+11,synpic33904,modality,ct scan taken contrast?,no,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic33904.jpg,no
+12,synpic39583,modality,noncontrast mri?,yes,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic39583.jpg,no
+13,synpic39568,modality,type image modality seen?,xr - plain film,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic39568.jpg,xr - plain film
+14,synpic27024,modality,ct scan?,yes,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic27024.jpg,yes
+15,synpic25155,modality,"image modality t1, t2, flair?",flair,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic25155.jpg,t2
+16,synpic52493,modality,type imaging this?,xr - plain film,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic52493.jpg,an - angiogram
+17,synpic53941,modality,imaging modality used take image?,ct with iv contrast,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic53941.jpg,ct noncontrast
+18,synpic58343,modality,imaging modality used take image?,mr - t1w w/gadolinium,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic58343.jpg,mr - flair
+19,synpic48150,modality,ct scan taken contrast?,yes,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic48150.jpg,yes
+20,synpic26892,modality,gi contrast given patient?,no,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic26892.jpg,no
+21,synpic48805,modality,ct scan taken contrast?,yes,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic48805.jpg,yes
+22,synpic41996,modality,noncontrast mri?,yes,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic41996.jpg,no
+23,synpic52901,modality,"t1 weighted, t2 weighted, flair image?",t2,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic52901.jpg,t2
+24,synpic26702,modality,mri image?,no,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic26702.jpg,no
+25,synpic36075,modality,ct scan?,no,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic36075.jpg,no
+26,synpic15874,modality,noncontrast ct?,no,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic15874.jpg,yes
+27,synpic28538,modality,modality shown?,xr - plain film,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic28538.jpg,mr - pdw proton density
+28,synpic45924,modality,image modality this?,mr - flair,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic45924.jpg,mr - flair
+29,synpic24458,modality,imaging modality used take image?,ct with gi and iv contrast,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic24458.jpg,ct with iv contrast
+30,synpic34139,modality,image taken with?,xr - plain film,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic34139.jpg,mr - pdw proton density
+31,synpic58746,modality,contrast noncontrast ct?,contrast,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic58746.jpg,noncontrast
+32,synpic36276,modality,t1 weighted image?,yes,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic36276.jpg,yes
+33,synpic46949,modality,imaging modality used acquire picture?,us - ultrasound,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic46949.jpg,us - ultrasound
+34,synpic60018,modality,"image modality t1, t2, flair?",t2,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic60018.jpg,t2
+35,synpic14955,modality,type imaging modality shown?,ct w/contrast (iv),/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic14955.jpg,gi and iv
+36,synpic38267,modality,mri taken contrast?,no,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic38267.jpg,yes
+37,synpic18809,modality,type imaging modality shown?,ct w/contrast (iv),/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic18809.jpg,mr - pdw proton density
+38,synpic55706,modality,t2 weighted image?,no,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic55706.jpg,no
+39,synpic51206,modality,mri image?,no,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic51206.jpg,no
+40,synpic46829,modality,noncontrast ct?,yes,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic46829.jpg,yes
+41,synpic24706,modality,gi contrast given patient?,no,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic24706.jpg,no
+42,synpic22377,modality,imaging modality used?,an - angiogram,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic22377.jpg,an - angiogram
+43,synpic43979,modality,imaging modality used acquire picture?,us - ultrasound,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic43979.jpg,us - ultrasound
+44,synpic32831,modality,noncontrast ct?,no,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic32831.jpg,no
+45,synpic33285,modality,ct scan taken contrast?,no,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic33285.jpg,yes
+46,synpic55100,modality,ct scan taken contrast?,no,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic55100.jpg,no
+47,synpic48384,modality,type imaging represent?,cta - ct angiography,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic48384.jpg,ct - gi & iv contrast
+48,synpic59289,modality,type contrast patient have?,iv,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic59289.jpg,ct with iv contrast
+49,synpic54975,modality,noncontrast mri?,yes,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic54975.jpg,yes
+50,synpic51170,modality,ct scan taken contrast?,yes,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic51170.jpg,yes
+51,synpic40069,modality,contrast noncontrast ct?,noncontrast,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic40069.jpg,noncontrast
+52,synpic51160,modality,image taken?,mr - flair,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic51160.jpg,mr - flair
+53,synpic18560,modality,contrast noncontrast ct?,contrast,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic18560.jpg,contrast
+54,synpic51606,modality,kind scan this?,an - angiogram,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic51606.jpg,xr - plain film
+55,synpic19859,modality,type imaging modality seen image?,xr - plain film,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic19859.jpg,bas - barium swallow
+56,synpic27747,modality,noncontrast ct?,yes,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic27747.jpg,no
+57,synpic13384,modality,type image modality seen?,mammograph,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic13384.jpg,mr - dwi diffusion weighted
+58,synpic59702,modality,noncontrast mri?,no,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic59702.jpg,no
+59,synpic60197,modality,iv contrast given patient?,yes,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic60197.jpg,yes
+60,synpic56425,modality,type image modality seen?,an - angiogram,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic56425.jpg,an - angiogram
+61,synpic33295,modality,modality used take image?,ugi - upper gi,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic33295.jpg,bas - barium swallow
+62,synpic43772,modality,ct scan?,yes,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic43772.jpg,yes
+63,synpic56394,modality,imaging modality used take image?,mr - t2 weighted,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic56394.jpg,mr - t2 weighted
+64,synpic28138,modality,ct scan taken contrast?,yes,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic28138.jpg,yes
+65,synpic31469,modality,contrast noncontrast ct?,contrast,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic31469.jpg,contrast
+66,synpic35155,modality,imaging modality used take image?,ct with gi and iv contrast,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic35155.jpg,ct with gi and iv contrast
+67,synpic40333,modality,image taken?,us - ultrasound,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic40333.jpg,us - ultrasound
+68,synpic41011,modality,t2 weighted image?,no,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic41011.jpg,no
+69,synpic51202,modality,imaging modality used take image?,ct noncontrast,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic51202.jpg,ct noncontrast
+70,synpic44800,modality,contrast noncontrast ct?,contrast,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic44800.jpg,contrast
+71,synpic59851,modality,image taken?,xr - plain film,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic59851.jpg,xr - plain film
+72,synpic35747,modality,imaging modality used take image?,mr - t2 weighted,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic35747.jpg,mr - flair
+73,synpic54150,modality,imaging modality used take image?,mr - t1w w/gadolinium,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic54150.jpg,mr - t1w - noncontrast
+74,synpic25024,modality,ct scan?,yes,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic25024.jpg,no
+75,synpic45935,modality,contrast noncontrast ct?,contrast,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic45935.jpg,contrast
+76,synpic19086,modality,imaging modality used take image?,ct noncontrast,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic19086.jpg,ct with gi and iv contrast
+77,synpic35578,modality,noncontrast mri?,yes,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic35578.jpg,yes
+78,synpic51767,modality,imaging modality used take image?,ct with gi and iv contrast,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic51767.jpg,ct with gi and iv contrast
+79,synpic27197,modality,gi contrast given patient?,no,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic27197.jpg,no
+80,synpic44430,modality,contrast noncontrast mri?,contrast,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic44430.jpg,noncontrast
+81,synpic46964,modality,modality image taken?,xr - plain film,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic46964.jpg,mr - pdw proton density
+82,synpic41979,modality,type imaging modality shown?,ugi - upper gi,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic41979.jpg,an - angiogram
+83,synpic32773,modality,type image modality this?,us - ultrasound,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic32773.jpg,us - ultrasound
+84,synpic31285,modality,mri image?,no,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic31285.jpg,no
+85,synpic40440,modality,gi contrast given patient?,no,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic40440.jpg,yes
+86,synpic22366,modality,image modality this?,us - ultrasound,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic22366.jpg,us - ultrasound
+87,synpic100408,modality,type image modality this?,xr - plain film,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic100408.jpg,xr - plain film
+88,synpic50733,modality,noncontrast ct?,no,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic50733.jpg,no
+89,synpic49262,modality,t2 weighted image?,no,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic49262.jpg,no
+90,synpic27752,modality,imaging modality used acquire picture?,xr - plain film,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic27752.jpg,xr - plain film
+91,synpic53951,modality,mri taken contrast?,yes,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic53951.jpg,no
+92,synpic24501,modality,type imaging modality shown?,xr - plain film,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic24501.jpg,xr - plain film
+93,synpic52497,modality,t2 weighted image?,no,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic52497.jpg,no
+94,synpic47924,modality,type imaging modality used acquire image?,ugi - upper gi,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic47924.jpg,xr - plain film
+95,synpic18213,modality,imaging method used?,xr - plain film,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic18213.jpg,xr - plain film
+96,synpic34909,modality,noncontrast mri?,yes,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic34909.jpg,no
+97,synpic56154,modality,t1 weighted image?,no,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic56154.jpg,no
+98,synpic39585,modality,"t1 weighted, t2 weighted, flair image?",t2,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic39585.jpg,t1
+99,synpic16994,modality,"t1 weighted, t2 weighted, flair image?",flair,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic16994.jpg,t1
+100,synpic51407,modality,ct scan?,yes,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic51407.jpg,yes
+101,synpic37609,modality,modality shown?,mr - adc map (app diff coeff),/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic37609.jpg,mr - dwi diffusion weighted
+102,synpic27432,modality,type imaging modality shown?,ct w/contrast (iv),/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic27432.jpg,mr - pdw proton density
+103,synpic28715,modality,ct scan taken contrast?,yes,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic28715.jpg,yes
+104,synpic53600,modality,t2 weighted image?,no,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic53600.jpg,no
+105,synpic40697,modality,ct scan?,no,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic40697.jpg,yes
+106,synpic41589,modality,imaging modality used take image?,ct with iv contrast,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic41589.jpg,ct with iv contrast
+107,synpic24310,modality,noncontrast ct?,no,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic24310.jpg,yes
+108,synpic51770,modality,gi contrast given patient?,no,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic51770.jpg,no
+109,synpic47890,modality,imaging modality used take image?,ct noncontrast,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic47890.jpg,mr - t2 weighted
+110,synpic40127,modality,mr weighting image?,t1,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic40127.jpg,t1
+111,synpic37634,modality,noncontrast mri?,no,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic37634.jpg,no
+112,synpic26922,modality,type imaging modality shown?,us - ultrasound,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic26922.jpg,us - ultrasound
+113,synpic37740,modality,"t1 weighted, t2 weighted, flair image?",t1,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic37740.jpg,t1
+114,synpic28890,modality,contrast noncontrast ct?,noncontrast,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic28890.jpg,contrast
+115,synpic49513,modality,imaging modality used take image?,mr - t1w w/gadolinium,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic49513.jpg,mr - flair
+116,synpic52133,modality,kind scan this?,an - angiogram,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic52133.jpg,bas - barium swallow
+117,synpic24258,modality,ct scan?,yes,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic24258.jpg,yes
+118,synpic21334,modality,mri image?,yes,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic21334.jpg,no
+119,synpic45842,modality,t1 weighted image?,yes,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic45842.jpg,no
+120,synpic37595,modality,type imaging modality shown?,xr - plain film,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic37595.jpg,xr - plain film
+121,synpic55335,modality,mri image?,yes,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic55335.jpg,no
+122,synpic56130,plane,plane ct scan?,3d reconstruction,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic56130.jpg,coronal
+123,synpic21435,plane,plane ct scan?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic21435.jpg,axial
+124,synpic39252,plane,imaging plane depicted here?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic39252.jpg,axial
+125,synpic23785,plane,plane ct scan?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic23785.jpg,axial
+126,synpic58323,plane,plane mri captured?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic58323.jpg,axial
+127,synpic51449,plane,plane image taken?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic51449.jpg,axial
+128,synpic39087,plane,image plane this?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic39087.jpg,axial
+129,synpic16716,plane,plane image shown in?,ap,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic16716.jpg,axial
+130,synpic54525,plane,plane image taken?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic54525.jpg,axial
+131,synpic38372,plane,plane ct scan?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic38372.jpg,axial
+132,synpic39865,plane,imaging plane depicted here?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic39865.jpg,axial
+133,synpic58519,plane,plane used ct scan?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic58519.jpg,axial
+134,synpic26986,plane,plane image taken?,pa,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic26986.jpg,coronal
+135,synpic58294,plane,plane mri displayed?,sagittal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic58294.jpg,sagittal
+136,synpic24161,plane,plane image in?,longitudinal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic24161.jpg,sagittal
+137,synpic26010,plane,plane this?,lateral,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic26010.jpg,frontal
+138,synpic36217,plane,plane image acquired in?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic36217.jpg,axial
+139,synpic56736,plane,plane mri in?,sagittal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic56736.jpg,sagittal
+140,synpic44454,plane,plane used ct scan?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic44454.jpg,axial
+141,synpic54653,plane,plane mri?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic54653.jpg,axial
+142,synpic56044,plane,plane image taken?,sagittal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic56044.jpg,sagittal
+143,synpic21569,plane,plane this?,ap,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic21569.jpg,ap
+144,synpic59376,plane,plane image taken?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic59376.jpg,axial
+145,synpic55564,plane,plane image taken?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic55564.jpg,coronal
+146,synpic34367,plane,plane image oriented?,oblique,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic34367.jpg,coronal
+147,synpic48079,plane,plane film,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic48079.jpg,axial
+148,synpic35657,plane,plane x-ray?,pa,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic35657.jpg,frontal
+149,synpic27290,plane,plane mri taken in?,sagittal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic27290.jpg,sagittal
+150,synpic29040,plane,plane image oriented?,pa,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic29040.jpg,sagittal
+151,synpic27737,plane,plane x-ray?,lateral,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic27737.jpg,lateral
+152,synpic39290,plane,plane image taken?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic39290.jpg,axial
+153,synpic27906,plane,plane image taken?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic27906.jpg,axial
+154,synpic58863,plane,plane ct scan?,coronal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic58863.jpg,coronal
+155,synpic46888,plane,plane image in?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic46888.jpg,axial
+156,synpic20264,plane,plane image in?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic20264.jpg,coronal
+157,synpic38359,plane,plane image?,coronal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic38359.jpg,coronal
+158,synpic36374,plane,plane used?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic36374.jpg,axial
+159,synpic41842,plane,plane image taken?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic41842.jpg,coronal
+160,synpic21783,plane,plane this?,3d reconstruction,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic21783.jpg,axial
+161,synpic57403,plane,image plane this?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic57403.jpg,axial
+162,synpic17769,plane,imaging plane depicted here?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic17769.jpg,axial
+163,synpic59360,plane,plane angiogram taken?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic59360.jpg,coronal
+164,synpic15817,plane,plane?,pa,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic15817.jpg,coronal
+165,synpic51932,plane,plane image?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic51932.jpg,axial
+166,synpic32067,plane,plane used?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic32067.jpg,axial
+167,synpic16112,plane,plane image acquired in?,transverse,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic16112.jpg,sagittal
+168,synpic39867,plane,plane mri displayed?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic39867.jpg,axial
+169,synpic35132,plane,image plane this?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic35132.jpg,axial
+170,synpic28605,plane,plane image?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic28605.jpg,axial
+171,synpic56442,plane,plane demonstrated?,sagittal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic56442.jpg,sagittal
+172,synpic52142,plane,plane mri taken?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic52142.jpg,axial
+173,synpic51311,plane,plane ct scan in?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic51311.jpg,ap
+174,synpic41102,plane,plane?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic41102.jpg,axial
+175,synpic37080,plane,plane demonstrated?,lateral,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic37080.jpg,ap
+176,synpic54719,plane,plane image taken?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic54719.jpg,axial
+177,synpic43507,plane,plane x-ray displayed?,oblique,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic43507.jpg,lateral
+178,synpic58325,plane,imaging plane depicted here?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic58325.jpg,axial
+179,synpic55832,plane,plane image taken?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic55832.jpg,coronal
+180,synpic43936,plane,plane used ct scan?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic43936.jpg,axial
+181,synpic61201,plane,plane ultrasound?,sagittal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic61201.jpg,sagittal
+182,synpic18885,plane,plane this?,coronal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic18885.jpg,coronal
+183,synpic44136,plane,plane image acquired in?,transverse,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic44136.jpg,sagittal
+184,synpic16894,plane,plane ct scan?,sagittal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic16894.jpg,sagittal
+185,synpic51261,plane,plane image taken?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic51261.jpg,axial
+186,synpic34406,plane,plane image taken?,sagittal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic34406.jpg,sagittal
+187,synpic41927,plane,plane image oriented?,coronal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic41927.jpg,coronal
+188,synpic50433,plane,imaging plane depicted here?,coronal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic50433.jpg,coronal
+189,synpic26566,plane,plane seen?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic26566.jpg,axial
+190,synpic53852,plane,plane ct scan?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic53852.jpg,coronal
+191,synpic41503,plane,plane image shown in?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic41503.jpg,axial
+192,synpic45003,plane,plane mri?,sagittal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic45003.jpg,sagittal
+193,synpic25536,plane,plane used?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic25536.jpg,sagittal
+194,synpic41932,plane,plane ct scan?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic41932.jpg,axial
+195,synpic20466,plane,plane mri?,sagittal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic20466.jpg,sagittal
+196,synpic16881,plane,plane x-ray displayed?,ap,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic16881.jpg,lateral
+197,synpic52027,plane,plane?,3d reconstruction,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic52027.jpg,coronal
+198,synpic32894,plane,plane x-ray taken?,ap,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic32894.jpg,coronal
+199,synpic35645,plane,plane film,frontal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic35645.jpg,frontal
+200,synpic27282,plane,plane image taken?,ap,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic27282.jpg,ap
+201,synpic37250,plane,plane image acquired in?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic37250.jpg,axial
+202,synpic27725,plane,plane ct scan?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic27725.jpg,coronal
+203,synpic17194,plane,plane image shown in?,sagittal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic17194.jpg,sagittal
+204,synpic21397,plane,plane image acquired in?,coronal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic21397.jpg,sagittal
+205,synpic52423,plane,plane image taken?,lateral,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic52423.jpg,ap
+206,synpic42156,plane,plane used ct scan?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic42156.jpg,axial
+207,synpic51894,plane,plane image?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic51894.jpg,axial
+208,synpic38836,plane,plane image taken?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic38836.jpg,axial
+209,synpic54736,plane,plane ct scan displayed?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic54736.jpg,axial
+210,synpic53065,plane,plane mri?,sagittal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic53065.jpg,sagittal
+211,synpic43510,plane,plane ultrasound taken?,transverse,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic43510.jpg,sagittal
+212,synpic53717,plane,plane image taken?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic53717.jpg,axial
+213,synpic60336,plane,plane ct scan in?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic60336.jpg,axial
+214,synpic8584,plane,plane ct scan captured?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic8584.jpg,axial
+215,synpic43048,plane,plane used mri?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic43048.jpg,axial
+216,synpic27294,plane,plane image in?,sagittal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic27294.jpg,sagittal
+217,synpic28170,plane,image plane this?,lateral,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic28170.jpg,lateral
+218,synpic100253,plane,plane x-ray?,ap,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic100253.jpg,sagittal
+219,synpic37124,plane,plane image in?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic37124.jpg,axial
+220,synpic54130,plane,plane ct scan taken?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic54130.jpg,axial
+221,synpic27647,plane,plane image shown in?,lateral,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic27647.jpg,frontal
+222,synpic41919,plane,plane mri taken?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic41919.jpg,axial
+223,synpic57835,plane,plane image taken?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic57835.jpg,axial
+224,synpic23193,plane,plane used ct scan?,3d reconstruction,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic23193.jpg,3d reconstruction
+225,synpic27256,plane,plane used x-ray?,frontal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic27256.jpg,frontal
+226,synpic32897,plane,plane x-ray?,pa,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic32897.jpg,frontal
+227,synpic53299,plane,plane seen?,lateral,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic53299.jpg,ap
+228,synpic32698,plane,plane x-ray taken?,oblique,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic32698.jpg,ap
+229,synpic49799,plane,plane?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic49799.jpg,axial
+230,synpic60451,plane,plane x-ray displayed?,pa,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic60451.jpg,ap
+231,synpic51667,plane,plane image taken?,sagittal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic51667.jpg,sagittal
+232,synpic53064,plane,plane image taken?,coronal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic53064.jpg,coronal
+233,synpic59213,plane,plane this?,coronal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic59213.jpg,axial
+234,synpic53981,plane,plane used mri?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic53981.jpg,axial
+235,synpic53995,plane,plane used ct scan?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic53995.jpg,axial
+236,synpic59260,plane,plane mri taken in?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic59260.jpg,axial
+237,synpic56806,plane,plane mri in?,coronal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic56806.jpg,coronal
+238,synpic55670,plane,plane seen?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic55670.jpg,axial
+239,synpic23916,plane,plane ct scan?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic23916.jpg,axial
+240,synpic47328,plane,plane?,transverse,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic47328.jpg,sagittal
+241,synpic50132,plane,plane ct scan?,axial,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic50132.jpg,axial
+242,synpic28076,plane,plane mri?,coronal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic28076.jpg,sagittal
+243,synpic44351,plane,plane mri taken in?,sagittal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic44351.jpg,sagittal
+244,synpic24314,plane,plane image taken?,lateral,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic24314.jpg,frontal
+245,synpic31739,plane,plane x-ray taken in?,mammo - cc,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic31739.jpg,frontal
+246,synpic16333,organ,organ system displayed ct scan?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic16333.jpg,skull and contents
+247,synpic53848,organ,organ principally shown mri?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic53848.jpg,skull and contents
+248,synpic31015,organ,organ captured mri?,"face, sinuses, and neck",/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic31015.jpg,vascular and lymphatic
+249,synpic56918,organ,organ system evaluated primarily?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic56918.jpg,skull and contents
+250,synpic26227,organ,organ system evaluated primarily?,musculoskeletal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic26227.jpg,musculoskeletal
+251,synpic31996,organ,one organ system seen image?,spine and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic31996.jpg,musculoskeletal
+252,synpic40809,organ,organ system imaged?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic40809.jpg,skull and contents
+253,synpic46288,organ,organ system primarily present image?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic46288.jpg,skull and contents
+254,synpic58908,organ,organ system imaged?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic58908.jpg,skull and contents
+255,synpic37465,organ,organ system imaged?,vascular and lymphatic,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic37465.jpg,vascular and lymphatic
+256,synpic57420,organ,organ system shown mri?,spine and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic57420.jpg,spine and contents
+257,synpic28035,organ,organ system evaluated primarily?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic28035.jpg,skull and contents
+258,synpic18684,organ,organ system evaluated primarily?,genitourinary,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic18684.jpg,genitourinary
+259,synpic40389,organ,organ image of?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic40389.jpg,skull and contents
+260,synpic26781,organ,organ system shown image?,musculoskeletal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic26781.jpg,"lung, mediastinum, pleura"
+261,synpic32938,organ,organ system primarily present image?,"lung, mediastinum, pleura",/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic32938.jpg,gastrointestinal
+262,synpic35919,organ,organ system imaged?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic35919.jpg,skull and contents
+263,synpic48716,organ,organ system primarily present image?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic48716.jpg,skull and contents
+264,synpic34030,organ,part body x-ray show?,spine and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic34030.jpg,musculoskeletal
+265,synpic33039,organ,part body ct scan show?,heart and great vessels,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic33039.jpg,skull and contents
+266,synpic19161,organ,part body imaged?,breast,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic19161.jpg,musculoskeletal
+267,synpic53726,organ,organ captured ct scan?,heart and great vessels,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic53726.jpg,musculoskeletal
+268,synpic51866,organ,organ system imaged?,"face, sinuses, and neck",/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic51866.jpg,"face, sinuses, and neck"
+269,synpic20053,organ,organ system shown image?,gastrointestinal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic20053.jpg,gastrointestinal
+270,synpic4164,organ,organ system pictured here?,musculoskeletal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic4164.jpg,musculoskeletal
+271,synpic20286,organ,organ system imaged?,gastrointestinal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic20286.jpg,"lung, mediastinum, pleura"
+272,synpic16734,organ,organ x-ray showing?,"lung, mediastinum, pleura",/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic16734.jpg,musculoskeletal
+273,synpic36341,organ,organ system displayed mri?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic36341.jpg,skull and contents
+274,synpic55037,organ,organ systems evaluated mri?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic55037.jpg,skull and contents
+275,synpic33417,organ,organ system evaluated primarily?,genitourinary,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic33417.jpg,gastrointestinal
+276,synpic22526,organ,organ system displayed x-ray?,"lung, mediastinum, pleura",/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic22526.jpg,"lung, mediastinum, pleura"
+277,synpic21749,organ,organ system visualized?,musculoskeletal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic21749.jpg,skull and contents
+278,synpic34807,organ,organ system visualized?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic34807.jpg,skull and contents
+279,synpic26581,organ,part body imaged?,musculoskeletal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic26581.jpg,musculoskeletal
+280,synpic56072,organ,organ system evaluated primarily?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic56072.jpg,skull and contents
+281,synpic49807,organ,part body imaged here?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic49807.jpg,"face, sinuses, and neck"
+282,synpic27890,organ,ultrasound shows organ system?,"face, sinuses, and neck",/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic27890.jpg,t2
+283,synpic37328,organ,organ system imaged?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic37328.jpg,skull and contents
+284,synpic50370,organ,organ system shown mri?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic50370.jpg,skull and contents
+285,synpic32052,organ,organ system image?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic32052.jpg,vascular and lymphatic
+286,synpic42589,organ,organ system imaged?,musculoskeletal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic42589.jpg,musculoskeletal
+287,synpic56271,organ,organ system imaged?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic56271.jpg,skull and contents
+288,synpic46738,organ,organ system shown ct scan?,"lung, mediastinum, pleura",/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic46738.jpg,gastrointestinal
+289,synpic50006,organ,organ captured ct scan?,gastrointestinal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic50006.jpg,spine and contents
+290,synpic50984,organ,organ system pictured here?,gastrointestinal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic50984.jpg,gastrointestinal
+291,synpic26351,organ,organ mri showing?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic26351.jpg,skull and contents
+292,synpic19837,organ,organ system primarily present image?,gastrointestinal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic19837.jpg,musculoskeletal
+293,synpic56107,organ,organ system primarily present image?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic56107.jpg,skull and contents
+294,synpic19614,organ,organ system shown ct scan?,"lung, mediastinum, pleura",/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic19614.jpg,"lung, mediastinum, pleura"
+295,synpic56103,organ,organ system shown ct scan?,"face, sinuses, and neck",/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic56103.jpg,spine and contents
+296,synpic9653,organ,organ system shown image?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic9653.jpg,skull and contents
+297,synpic49779,organ,organ image of?,spine and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic49779.jpg,spine and contents
+298,synpic39275,organ,organ principally shown mri?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic39275.jpg,skull and contents
+299,synpic30245,organ,organ system visualized?,heart and great vessels,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic30245.jpg,heart and great vessels
+300,synpic45180,organ,organ system shown mri?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic45180.jpg,skull and contents
+301,synpic26194,organ,organ system shown ct scan?,genitourinary,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic26194.jpg,gastrointestinal
+302,synpic53251,organ,part body imaged here?,vascular and lymphatic,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic53251.jpg,skull and contents
+303,synpic36422,organ,organ image of?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic36422.jpg,skull and contents
+304,synpic35881,organ,organ system image?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic35881.jpg,skull and contents
+305,synpic25310,organ,organ captured mri?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic25310.jpg,skull and contents
+306,synpic28973,organ,organ image showing?,breast,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic28973.jpg,musculoskeletal
+307,synpic49369,organ,organ systems evaluated ct scan?,"lung, mediastinum, pleura",/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic49369.jpg,"lung, mediastinum, pleura"
+308,synpic36218,organ,part body imaged?,gastrointestinal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic36218.jpg,gastrointestinal
+309,synpic47608,organ,organ system imaged?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic47608.jpg,skull and contents
+310,synpic46516,organ,organ systems evaluated mri?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic46516.jpg,skull and contents
+311,synpic55230,organ,organ system evaluated primarily?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic55230.jpg,skull and contents
+312,synpic39301,organ,organ mri showing?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic39301.jpg,skull and contents
+313,synpic35275,organ,organ system evaluated primarily?,gastrointestinal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic35275.jpg,genitourinary
+314,synpic39472,organ,organ system pictured here?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic39472.jpg,skull and contents
+315,synpic19991,organ,organ system primarily present image?,musculoskeletal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic19991.jpg,skull and contents
+316,synpic38220,organ,organ system primarily present image?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic38220.jpg,skull and contents
+317,synpic41907,organ,organ image of?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic41907.jpg,skull and contents
+318,synpic38591,organ,part body imaged here?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic38591.jpg,skull and contents
+319,synpic25311,organ,organ system pictured here?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic25311.jpg,skull and contents
+320,synpic47557,organ,organ system pictured here?,"lung, mediastinum, pleura",/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic47557.jpg,"lung, mediastinum, pleura"
+321,synpic50003,organ,organ system primarily present image?,"lung, mediastinum, pleura",/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic50003.jpg,"lung, mediastinum, pleura"
+322,synpic18251,organ,organ system primarily present image?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic18251.jpg,skull and contents
+323,synpic16242,organ,organ system imaged?,"face, sinuses, and neck",/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic16242.jpg,"face, sinuses, and neck"
+324,synpic47964,organ,organ captured mri?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic47964.jpg,skull and contents
+325,synpic25139,organ,organ system pictured here?,gastrointestinal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic25139.jpg,genitourinary
+326,synpic56302,organ,organ system shown image?,"face, sinuses, and neck",/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic56302.jpg,skull and contents
+327,synpic52164,organ,ct scan shows organ system?,heart and great vessels,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic52164.jpg,"lung, mediastinum, pleura"
+328,synpic45430,organ,organ system primarily present image?,"face, sinuses, and neck",/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic45430.jpg,"face, sinuses, and neck"
+329,synpic38424,organ,organ system primarily present image?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic38424.jpg,skull and contents
+330,synpic18938,organ,organ system evaluated primarily?,musculoskeletal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic18938.jpg,"lung, mediastinum, pleura"
+331,synpic54475,organ,organ system visualized?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic54475.jpg,skull and contents
+332,synpic46071,organ,part body mri show?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic46071.jpg,skull and contents
+333,synpic26975,organ,organ captured ultrasound?,genitourinary,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic26975.jpg,gastrointestinal
+334,synpic41736,organ,organ systems evaluated x-ray?,musculoskeletal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic41736.jpg,musculoskeletal
+335,synpic52038,organ,part body imaged?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic52038.jpg,skull and contents
+336,synpic41044,organ,organ system shown mri?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic41044.jpg,skull and contents
+337,synpic26752,organ,organ system pictured here?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic26752.jpg,skull and contents
+338,synpic21029,organ,organ system shown image?,vascular and lymphatic,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic21029.jpg,skull and contents
+339,synpic28025,organ,part body imaged?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic28025.jpg,skull and contents
+340,synpic27699,organ,organ system shown image?,"face, sinuses, and neck",/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic27699.jpg,skull and contents
+341,synpic44464,organ,organ system visualized?,musculoskeletal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic44464.jpg,musculoskeletal
+342,synpic58717,organ,part body imaged here?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic58717.jpg,skull and contents
+343,synpic47804,organ,organ system displayed ct scan?,"lung, mediastinum, pleura",/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic47804.jpg,"lung, mediastinum, pleura"
+344,synpic16487,organ,organ system imaged?,breast,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic16487.jpg,gastrointestinal
+345,synpic19950,organ,organ system imaged?,"lung, mediastinum, pleura",/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic19950.jpg,skull and contents
+346,synpic33613,organ,organ system visualized?,musculoskeletal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic33613.jpg,musculoskeletal
+347,synpic47187,organ,organ image of?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic47187.jpg,skull and contents
+348,synpic58925,organ,organ system imaged?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic58925.jpg,skull and contents
+349,synpic58716,organ,organ system imaged?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic58716.jpg,skull and contents
+350,synpic42982,organ,organ system evaluated primarily?,"lung, mediastinum, pleura",/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic42982.jpg,"lung, mediastinum, pleura"
+351,synpic50835,organ,organ system displayed ct scan?,spine and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic50835.jpg,spine and contents
+352,synpic31561,organ,part body imaged?,musculoskeletal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic31561.jpg,"face, sinuses, and neck"
+353,synpic37104,organ,mri shows organ system?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic37104.jpg,t2
+354,synpic22284,organ,organ image of?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic22284.jpg,skull and contents
+355,synpic21941,organ,organ system shown image?,"lung, mediastinum, pleura",/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic21941.jpg,"lung, mediastinum, pleura"
+356,synpic35129,organ,organ system imaged?,heart and great vessels,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic35129.jpg,"lung, mediastinum, pleura"
+357,synpic26814,organ,organ principally shown mri?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic26814.jpg,skull and contents
+358,synpic100313,organ,organ x-ray showing?,spine and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic100313.jpg,musculoskeletal
+359,synpic454,organ,organ system imaged?,gastrointestinal,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic454.jpg,musculoskeletal
+360,synpic50558,organ,part body imaged?,skull and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic50558.jpg,skull and contents
+361,synpic55352,organ,part body imaged?,spine and contents,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic55352.jpg,spine and contents
+362,synpic47476,abnormality,something wrong image?,yes,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic47476.jpg,no
+363,synpic58354,abnormality,normal ultrasound?,yes,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic58354.jpg,yes
+364,synpic39386,abnormality,image look normal?,yes,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic39386.jpg,yes
+365,synpic25627,abnormality,image look normal?,yes,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic25627.jpg,yes
+366,synpic49505,abnormality,image normal?,yes,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic49505.jpg,yes
+367,synpic28985,abnormality,ultrasound normal?,no,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic28985.jpg,yes
+368,synpic29794,abnormality,normal ct scan?,no,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic29794.jpg,yes
+369,synpic45122,abnormality,ct scan normal?,no,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic45122.jpg,yes
+370,synpic100563,abnormality,image normal?,no,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic100563.jpg,yes
+371,synpic25614,abnormality,something wrong image?,no,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic25614.jpg,no
+372,synpic53988,abnormality,primary abnormality image?,meningioma,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic53988.jpg,meningioma
+373,synpic23315,abnormality,alarming ct scan?,sarcoidosis,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic23315.jpg,contrast
+374,synpic45521,abnormality,primary abnormality image?,glioblastoma multiforme,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic45521.jpg,meningioma
+375,synpic42299,abnormality,abnormal mri?,"brain, cerebral abscess",/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic42299.jpg,meningioma
+376,synpic41140,abnormality,abnormal ct scan?,acute appendicitis,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic41140.jpg,acute appendicitis
+377,synpic19459,abnormality,abnormality seen image?,fibrous dysplasia,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic19459.jpg,acute appendicitis
+378,synpic39606,abnormality,abnormality seen image?,meningioma,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic39606.jpg,no
+379,synpic58210,abnormality,alarming mri?,ependymoma,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic58210.jpg,arachnoid cyst
+380,synpic38637,abnormality,abnormality mri?,yes,/kaggle/input/vqa-med-2019/VQA-Med-2019/VQAMed2019Test/VQAMed2019_Test_Images/synpic38637.jpg,no

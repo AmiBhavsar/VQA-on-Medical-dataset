@@ -1,0 +1,289 @@
+image_id,question,answer,address,prediction
+rad_synpic33889,liver normal?,no,/kaggle/input/red-vqa-images/Images/rad_synpic33889.jpg,no
+rad_synpic16170,patient pneumomediastinum?,no,/kaggle/input/red-vqa-images/Images/rad_synpic16170.jpg,no
+rad_synpic32108,gall bladder pathology?,no,/kaggle/input/red-vqa-images/Images/rad_synpic32108.jpg,no
+rad_synpic42245,soft tissue densities left hilum equivalent size soft tissue densities right hilum?,no,/kaggle/input/red-vqa-images/Images/rad_synpic42245.jpg,no
+rad_synpic35191,plane this?,axial,/kaggle/input/red-vqa-images/Images/rad_synpic35191.jpg,brain
+rad_synpic31757,borders mass well-defined interior mass homogenous?,no,/kaggle/input/red-vqa-images/Images/rad_synpic31757.jpg,no
+rad_synpic32108,gallbladder wall enhanced contrast?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic32108.jpg,yes
+rad_synpic19232,lungs free consolidation?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic19232.jpg,no
+rad_synpic40500,image taken superior-most section brain?,no,/kaggle/input/red-vqa-images/Images/rad_synpic40500.jpg,yes
+rad_synpic21044,heart abnormal?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic21044.jpg,no
+rad_synpic21028,image enhanced contrast?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic21028.jpg,yes
+rad_synpic34515,stool colon?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic34515.jpg,yes
+rad_synpic40500,organ image of?,brain,/kaggle/input/red-vqa-images/Images/rad_synpic40500.jpg,one
+rad_synpic12210,type image this?,x-ray,/kaggle/input/red-vqa-images/Images/rad_synpic12210.jpg,right
+rad_synpic26925,mass well-defined?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic26925.jpg,no
+rad_synpic27198,size density lesion?,"5.6cm focal, predominantly hypodense",/kaggle/input/red-vqa-images/Images/rad_synpic27198.jpg,"5.6cm focal, predominantly hypodense"
+rad_synpic31394,image ct scan?,no,/kaggle/input/red-vqa-images/Images/rad_synpic31394.jpg,no
+rad_synpic38069,size ventricle abnormal?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic38069.jpg,no
+rad_synpic13385,lung extensive infiltration?,left,/kaggle/input/red-vqa-images/Images/rad_synpic13385.jpg,no
+rad_synpic47737,swelling around lesion?,no,/kaggle/input/red-vqa-images/Images/rad_synpic47737.jpg,no
+rad_synpic9872,enlargement ventricles,yes,/kaggle/input/red-vqa-images/Images/rad_synpic9872.jpg,no
+rad_synpic57368,brain bleed?,no,/kaggle/input/red-vqa-images/Images/rad_synpic57368.jpg,no
+rad_synpic43433,air fluid levels?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic43433.jpg,yes
+rad_synpic53033,lesion left right side brain?,left,/kaggle/input/red-vqa-images/Images/rad_synpic53033.jpg,axial
+rad_synpic45544,subarachnoid bleed image?,no,/kaggle/input/red-vqa-images/Images/rad_synpic45544.jpg,no
+rad_synpic33481,opacities confined one lung lobe?,no,/kaggle/input/red-vqa-images/Images/rad_synpic33481.jpg,no
+rad_synpic45634,image normal?,no,/kaggle/input/red-vqa-images/Images/rad_synpic45634.jpg,no
+rad_synpic40096,fracture present?,no,/kaggle/input/red-vqa-images/Images/rad_synpic40096.jpg,no
+rad_synpic34515,patient's vertebral body indicative normal aging?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic34515.jpg,yes
+rad_synpic27985,organs besides intestines present image?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic27985.jpg,no
+rad_synpic29263,pulmonary findings?,no,/kaggle/input/red-vqa-images/Images/rad_synpic29263.jpg,no
+rad_synpic23053,ribs broken?,no,/kaggle/input/red-vqa-images/Images/rad_synpic23053.jpg,no
+rad_synpic25105,contrast image?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic25105.jpg,yes
+rad_synpic45914,see dependent layering occipital horns lateral ventricles?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic45914.jpg,yes
+rad_synpic43433,dilation bowel?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic43433.jpg,yes
+rad_synpic28569,damage liver?,no,/kaggle/input/red-vqa-images/Images/rad_synpic28569.jpg,no
+rad_synpic34947,image cerebellum,yes,/kaggle/input/red-vqa-images/Images/rad_synpic34947.jpg,no
+rad_synpic39532,many lesions present image?,one,/kaggle/input/red-vqa-images/Images/rad_synpic39532.jpg,right lung
+rad_synpic55948,normal image?,no,/kaggle/input/red-vqa-images/Images/rad_synpic55948.jpg,no
+rad_synpic26158,plane section include gastric cardia?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic26158.jpg,yes
+rad_synpic13385,subdiaphragmatic air present left side?,no,/kaggle/input/red-vqa-images/Images/rad_synpic13385.jpg,no
+rad_synpic50848,picture abnormal?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic50848.jpg,no
+rad_synpic16810,evaluate kidneys bladde r ureters image?,no,/kaggle/input/red-vqa-images/Images/rad_synpic16810.jpg,no
+rad_synpic39532,one lesion present?,no,/kaggle/input/red-vqa-images/Images/rad_synpic39532.jpg,no
+rad_synpic29795,vertebral fracture?,no,/kaggle/input/red-vqa-images/Images/rad_synpic29795.jpg,no
+rad_synpic53574,infarcts located?,diffuse,/kaggle/input/red-vqa-images/Images/rad_synpic53574.jpg,axial
+rad_synpic16174,descending aortic silhouette normal contour size?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic16174.jpg,yes
+rad_synpic54823,small bowel filled contrast?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic54823.jpg,yes
+rad_synpic56116,cortex lesions present?,diffuse,/kaggle/input/red-vqa-images/Images/rad_synpic56116.jpg,no
+rad_synpic23053,opacity near left lung apex pathologic?,no,/kaggle/input/red-vqa-images/Images/rad_synpic23053.jpg,yes
+rad_synpic16174,ekg leads patient?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic16174.jpg,no
+rad_synpic35155,appendix seen image ruptured?,no,/kaggle/input/red-vqa-images/Images/rad_synpic35155.jpg,no
+rad_synpic40096,seem mass effect?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic40096.jpg,yes
+rad_synpic31232,abdominal aorta enlarged?,no,/kaggle/input/red-vqa-images/Images/rad_synpic31232.jpg,no
+rad_synpic41119,plane image shown in?,axial,/kaggle/input/red-vqa-images/Images/rad_synpic41119.jpg,axial
+rad_synpic55583,t1 weighted image?,no,/kaggle/input/red-vqa-images/Images/rad_synpic55583.jpg,axial
+rad_synpic40096,fluids highlighted modality?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic40096.jpg,yes
+rad_synpic25105,kidney present?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic25105.jpg,no
+rad_synpic23648,ct image?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic23648.jpg,yes
+rad_synpic50962,structures associated midbrain located image?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic50962.jpg,yes
+rad_synpic43433,bowel dilated?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic43433.jpg,no
+rad_synpic57237,cerebral cortex visualized level?,no,/kaggle/input/red-vqa-images/Images/rad_synpic57237.jpg,no
+rad_synpic16810,midline shift?,no,/kaggle/input/red-vqa-images/Images/rad_synpic16810.jpg,no
+rad_synpic59356,mass affect neighboring structure?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic59356.jpg,yes
+rad_synpic19232,lungs clear?,no,/kaggle/input/red-vqa-images/Images/rad_synpic19232.jpg,no
+rad_synpic18461,lateral film?,no,/kaggle/input/red-vqa-images/Images/rad_synpic18461.jpg,yes
+rad_synpic100228,cardiomegaly?,no,/kaggle/input/red-vqa-images/Images/rad_synpic100228.jpg,no
+rad_synpic50962,midline shift cerebral parenchyma?,no,/kaggle/input/red-vqa-images/Images/rad_synpic50962.jpg,yes
+rad_synpic100176,evidence pneumoperitoneum?,no,/kaggle/input/red-vqa-images/Images/rad_synpic100176.jpg,no
+rad_synpic25534,patient given iv contrast?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic25534.jpg,yes
+rad_synpic20375,ventricles enlarged?,no,/kaggle/input/red-vqa-images/Images/rad_synpic20375.jpg,no
+rad_synpic53978,medulla swollen?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic53978.jpg,no
+rad_synpic33429,free air thorax?,no,/kaggle/input/red-vqa-images/Images/rad_synpic33429.jpg,no
+rad_synpic26925,vertebral artery/basilar artery located image?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic26925.jpg,no
+rad_synpic24390,image thorax?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic24390.jpg,no
+rad_synpic31916,stomach dilated?,no,/kaggle/input/red-vqa-images/Images/rad_synpic31916.jpg,no
+rad_synpic32727,aorta visible section?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic32727.jpg,no
+rad_synpic32962,hylar lymphadenopathy?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic32962.jpg,yes
+rad_synpic35191,lesions cerebellum?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic35191.jpg,no
+rad_synpic53635,fat stranding shown image?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic53635.jpg,yes
+rad_synpic41772,contrast hyperintensities intestines?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic41772.jpg,no
+rad_synpic39757,definitive border grey matter white matter right temporal lobe?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic39757.jpg,yes
+rad_synpic21037,cxr display pneumoperitoneum?,no,/kaggle/input/red-vqa-images/Images/rad_synpic21037.jpg,yes
+rad_synpic23648,contrast used?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic23648.jpg,yes
+rad_synpic48714,ct use iv contrast material?,no,/kaggle/input/red-vqa-images/Images/rad_synpic48714.jpg,yes
+rad_synpic42290,kidneys show high level contrast enhancement?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic42290.jpg,yes
+rad_synpic45162,patient cholecystectomy?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic45162.jpg,no
+rad_synpic16174,descending aortic silhouette normal size?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic16174.jpg,yes
+rad_synpic42202,cardiomyopathy?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic42202.jpg,yes
+rad_synpic33226,pleural effusion?,no,/kaggle/input/red-vqa-images/Images/rad_synpic33226.jpg,no
+rad_synpic57520,evidence hematoma?,no,/kaggle/input/red-vqa-images/Images/rad_synpic57520.jpg,no
+rad_synpic20260,aorta size abnormal?,no,/kaggle/input/red-vqa-images/Images/rad_synpic20260.jpg,no
+rad_synpic34054,kidney fluid around it?,right,/kaggle/input/red-vqa-images/Images/rad_synpic34054.jpg,no
+rad_synpic100132,image taken ap pa plane?,pa,/kaggle/input/red-vqa-images/Images/rad_synpic100132.jpg,brain
+rad_synpic25758,sections bowel recognizable?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic25758.jpg,no
+rad_synpic48749,ring enhancing lesion?,no,/kaggle/input/red-vqa-images/Images/rad_synpic48749.jpg,no
+rad_synpic46943,ventricles visible?,lateral ventricles,/kaggle/input/red-vqa-images/Images/rad_synpic46943.jpg,no
+rad_synpic42290,thickening jejunum,yes,/kaggle/input/red-vqa-images/Images/rad_synpic42290.jpg,yes
+rad_synpic48714,grey-white matter differentiation?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic48714.jpg,yes
+rad_synpic45162,gallstones?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic45162.jpg,yes
+rad_synpic17145,pneumothorax present?,no,/kaggle/input/red-vqa-images/Images/rad_synpic17145.jpg,no
+rad_synpic41667,trachea midline?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic41667.jpg,yes
+rad_synpic38069,ventricles enlarged?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic38069.jpg,no
+rad_synpic27601,ring enhancing lesion present right lobe liver?,no,/kaggle/input/red-vqa-images/Images/rad_synpic27601.jpg,yes
+rad_synpic45364,mass varied?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic45364.jpg,yes
+rad_synpic48122,see intraperitoneal bleeding ct?,no,/kaggle/input/red-vqa-images/Images/rad_synpic48122.jpg,no
+rad_synpic51926,pancreatic pseudocsyst?,no,/kaggle/input/red-vqa-images/Images/rad_synpic51926.jpg,no
+rad_synpic44865,pleural effusion appreciated right side?,no,/kaggle/input/red-vqa-images/Images/rad_synpic44865.jpg,no
+rad_synpic21604,organs visualized image?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic21604.jpg,no
+rad_synpic51426,midline shift image?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic51426.jpg,yes
+rad_synpic33844,ascites?,no,/kaggle/input/red-vqa-images/Images/rad_synpic33844.jpg,no
+rad_synpic20626,skull fracture?,no,/kaggle/input/red-vqa-images/Images/rad_synpic20626.jpg,no
+rad_synpic32962,see hylar lymphadenopathy image?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic32962.jpg,yes
+rad_synpic58261,lateral ventricles compressed?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic58261.jpg,yes
+rad_synpic52248,imaging plane depicted here?,axial,/kaggle/input/red-vqa-images/Images/rad_synpic52248.jpg,brain
+rad_synpic28569,lesion located?,left kidney,/kaggle/input/red-vqa-images/Images/rad_synpic28569.jpg,left kidney
+rad_synpic56344,modality used image?,mri,/kaggle/input/red-vqa-images/Images/rad_synpic56344.jpg,axial
+rad_synpic52732,side lesion located on?,right,/kaggle/input/red-vqa-images/Images/rad_synpic52732.jpg,right
+rad_synpic32081,abnormality?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic32081.jpg,x-ray
+rad_synpic22967,patient given iv contrast?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic22967.jpg,yes
+rad_synpic29219,look like healthy liver?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic29219.jpg,no
+rad_synpic13385,air left hemidiaphragm pathologic?,no,/kaggle/input/red-vqa-images/Images/rad_synpic13385.jpg,no
+rad_synpic17675,pneumothorax?,no,/kaggle/input/red-vqa-images/Images/rad_synpic17675.jpg,no
+rad_synpic50962,brain structures shifted across midline?,no,/kaggle/input/red-vqa-images/Images/rad_synpic50962.jpg,no
+rad_synpic25105,liver look normal?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic25105.jpg,no
+rad_synpic22037,standing cxr,no,/kaggle/input/red-vqa-images/Images/rad_synpic22037.jpg,yes
+rad_synpic53816,modality image taken?,mri,/kaggle/input/red-vqa-images/Images/rad_synpic53816.jpg,brain
+rad_synpic39301,mass effect?,no,/kaggle/input/red-vqa-images/Images/rad_synpic39301.jpg,yes
+rad_synpic21776,narrowing cardiac contour?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic21776.jpg,yes
+rad_synpic27576,hemorrhage seen within kidneys?,no,/kaggle/input/red-vqa-images/Images/rad_synpic27576.jpg,no
+rad_synpic55583,abnormality image?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic55583.jpg,axial
+rad_synpic33892,organ affected?,pancreas,/kaggle/input/red-vqa-images/Images/rad_synpic33892.jpg,ct
+rad_synpic53033,side brain lesion on?,left,/kaggle/input/red-vqa-images/Images/rad_synpic53033.jpg,brain
+rad_synpic33331,mid-sagittal film?,no,/kaggle/input/red-vqa-images/Images/rad_synpic33331.jpg,no
+rad_synpic40314,organ enlarged?,pancreas,/kaggle/input/red-vqa-images/Images/rad_synpic40314.jpg,pancreas
+rad_synpic31259,mass present xray?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic31259.jpg,yes
+rad_synpic38630,medical therapy enough?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic38630.jpg,no
+rad_synpic40314,fat surrounding pancreas normal?,no,/kaggle/input/red-vqa-images/Images/rad_synpic40314.jpg,no
+rad_synpic42210,cardiomegaly present?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic42210.jpg,yes
+rad_synpic23008,bowel distended?,no,/kaggle/input/red-vqa-images/Images/rad_synpic23008.jpg,no
+rad_synpic28180,always recommend using iv oral contrast?,no,/kaggle/input/red-vqa-images/Images/rad_synpic28180.jpg,yes
+rad_synpic17153,edema?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic17153.jpg,yes
+rad_synpic27277,symmetry patient's ribs sides?,no,/kaggle/input/red-vqa-images/Images/rad_synpic27277.jpg,yes
+rad_synpic31962,aortic arch?,right side,/kaggle/input/red-vqa-images/Images/rad_synpic31962.jpg,no
+rad_synpic40272,patient positioned appropriately without tilting?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic40272.jpg,no
+rad_synpic54802,infarcts seen?,bilateral,/kaggle/input/red-vqa-images/Images/rad_synpic54802.jpg,no
+rad_synpic42307,bright white structures form x?,lateral ventricles,/kaggle/input/red-vqa-images/Images/rad_synpic42307.jpg,yes
+rad_synpic17738,heart abnormally large?,no,/kaggle/input/red-vqa-images/Images/rad_synpic17738.jpg,no
+rad_synpic31217,plane image taken in?,pa,/kaggle/input/red-vqa-images/Images/rad_synpic31217.jpg,left
+rad_synpic28718,air fluid level present?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic28718.jpg,no
+rad_synpic42245,evidence blunting costophrenic angles?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic42245.jpg,no
+rad_synpic25105,axial cut?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic25105.jpg,yes
+rad_synpic47964,shift midline structures?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic47964.jpg,no
+rad_synpic17693,image oriented?,pa,/kaggle/input/red-vqa-images/Images/rad_synpic17693.jpg,yes
+rad_synpic16221,trachea deviated midline?,no,/kaggle/input/red-vqa-images/Images/rad_synpic16221.jpg,yes
+rad_synpic18651,image show heart failure?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic18651.jpg,yes
+rad_synpic32981,intrahepatic ductal dilatation present?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic32981.jpg,yes
+rad_synpic57520,one organ system present image?,no,/kaggle/input/red-vqa-images/Images/rad_synpic57520.jpg,left
+rad_synpic32962,doe image depict interstitial lung process?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic32962.jpg,yes
+rad_synpic54823,pelvic fracture?,no,/kaggle/input/red-vqa-images/Images/rad_synpic54823.jpg,no
+rad_synpic24967,right conal fascia inflammed?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic24967.jpg,yes
+rad_synpic35914,cystic cavity present left kidney image?,no,/kaggle/input/red-vqa-images/Images/rad_synpic35914.jpg,no
+rad_synpic24248,colon walls thickened?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic24248.jpg,yes
+rad_synpic31467,kidneys visualized ct scan?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic31467.jpg,yes
+rad_synpic19477,two small hyperintensities indicate?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic19477.jpg,yes
+rad_synpic34713,air peritoneal cavity?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic34713.jpg,no
+rad_synpic40520,evidence pleural effusion?,right side,/kaggle/input/red-vqa-images/Images/rad_synpic40520.jpg,no
+rad_synpic46720,atrophy brain?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic46720.jpg,no
+rad_synpic49914,plane image taken?,pa,/kaggle/input/red-vqa-images/Images/rad_synpic49914.jpg,left
+rad_synpic42805,heart enlarged?,no,/kaggle/input/red-vqa-images/Images/rad_synpic42805.jpg,no
+rad_synpic23631,ct abdomen?,no,/kaggle/input/red-vqa-images/Images/rad_synpic23631.jpg,no
+rad_synpic18250,abnormalities?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic18250.jpg,no
+rad_synpic52248,image abnormal?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic52248.jpg,axial
+rad_synpic33481,aortic knob widened?,no,/kaggle/input/red-vqa-images/Images/rad_synpic33481.jpg,yes
+rad_synpic31217,abnormalities seen lungs?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic31217.jpg,no
+rad_synpic55464,lymph nodes enlarged,yes,/kaggle/input/red-vqa-images/Images/rad_synpic55464.jpg,no
+rad_synpic34515,evidence small bowel obstruction image?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic34515.jpg,yes
+rad_synpic30324,evidence abdominal hernia?,no,/kaggle/input/red-vqa-images/Images/rad_synpic30324.jpg,no
+rad_synpic43609,stranding image?,fat,/kaggle/input/red-vqa-images/Images/rad_synpic43609.jpg,fat
+rad_synpic33481,diaphragm flattened either side,no,/kaggle/input/red-vqa-images/Images/rad_synpic33481.jpg,no
+rad_synpic28210,see kidneys,yes,/kaggle/input/red-vqa-images/Images/rad_synpic28210.jpg,yes
+rad_synpic24538,heart dilated?,no,/kaggle/input/red-vqa-images/Images/rad_synpic24538.jpg,no
+rad_synpic25105,kidneys visible image?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic25105.jpg,no
+rad_synpic20208,intraperitoneal hemorrhage present image?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic20208.jpg,no
+rad_synpic37275,pelvis left kidney dilated?,no,/kaggle/input/red-vqa-images/Images/rad_synpic37275.jpg,no
+rad_synpic57317,mass shift pathology?,no,/kaggle/input/red-vqa-images/Images/rad_synpic57317.jpg,yes
+rad_synpic43609,modality used image?,ct,/kaggle/input/red-vqa-images/Images/rad_synpic43609.jpg,fat
+rad_synpic31962,subcutaneous air present?,no,/kaggle/input/red-vqa-images/Images/rad_synpic31962.jpg,no
+rad_synpic28355,patient pneumothorax?,no,/kaggle/input/red-vqa-images/Images/rad_synpic28355.jpg,no
+rad_synpic26413,stomach visualized here?,no,/kaggle/input/red-vqa-images/Images/rad_synpic26413.jpg,yes
+rad_synpic16221,patient's gender?,female,/kaggle/input/red-vqa-images/Images/rad_synpic16221.jpg,no
+rad_synpic22286,branches superior mesenteric arteries filled contrast?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic22286.jpg,yes
+rad_synpic53635,image show normal gallbladder?,no,/kaggle/input/red-vqa-images/Images/rad_synpic53635.jpg,yes
+rad_synpic40426,mass left right side?,left,/kaggle/input/red-vqa-images/Images/rad_synpic40426.jpg,with contrast
+rad_synpic60096,ct image?,no,/kaggle/input/red-vqa-images/Images/rad_synpic60096.jpg,no
+rad_synpic31467,ct scan enhanced iv contrast?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic31467.jpg,yes
+rad_synpic56841,cross section brain image?,axial,/kaggle/input/red-vqa-images/Images/rad_synpic56841.jpg,flair
+rad_synpic31928,size ventricles abnormal?,no,/kaggle/input/red-vqa-images/Images/rad_synpic31928.jpg,no
+rad_synpic27198,describe size density lesion?,"5.6cm focal, predominantly hypodense",/kaggle/input/red-vqa-images/Images/rad_synpic27198.jpg,"5.6cm focal, predominantly hypodense"
+rad_synpic42290,contrast enhanced image?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic42290.jpg,yes
+rad_synpic28355,xray suggestive aortic dissection?,no,/kaggle/input/red-vqa-images/Images/rad_synpic28355.jpg,no
+rad_synpic31217,nodule left lung?,no,/kaggle/input/red-vqa-images/Images/rad_synpic31217.jpg,yes
+rad_synpic27646,mri?,no,/kaggle/input/red-vqa-images/Images/rad_synpic27646.jpg,pa
+rad_synpic42951,noncontrast ct?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic42951.jpg,yes
+rad_synpic60703,"t1 weighted, t2 weighted, flair image?",flair,/kaggle/input/red-vqa-images/Images/rad_synpic60703.jpg,brain
+rad_synpic56116,occipital lobe present?,no,/kaggle/input/red-vqa-images/Images/rad_synpic56116.jpg,no
+rad_synpic17675,free air diaphragm?,no,/kaggle/input/red-vqa-images/Images/rad_synpic17675.jpg,no
+rad_synpic19114,aortic arch shape abnormal?,no,/kaggle/input/red-vqa-images/Images/rad_synpic19114.jpg,no
+rad_synpic31217,mri?,no,/kaggle/input/red-vqa-images/Images/rad_synpic31217.jpg,right lung
+rad_synpic45610,trachea midline?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic45610.jpg,yes
+rad_synpic22037,chest xray underexposed?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic22037.jpg,yes
+rad_synpic48091,abnormalities besides mass temporal horn?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic48091.jpg,no
+rad_synpic28718,fat stranding depicted image?,no,/kaggle/input/red-vqa-images/Images/rad_synpic28718.jpg,with contrast
+rad_synpic23008,fat stranding?,no,/kaggle/input/red-vqa-images/Images/rad_synpic23008.jpg,no
+rad_synpic52767,decreased lung markings right upper lung field?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic52767.jpg,yes
+rad_synpic50943,heart enlarged?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic50943.jpg,no
+rad_synpic18461,lungs normal?,no,/kaggle/input/red-vqa-images/Images/rad_synpic18461.jpg,no
+rad_synpic44995,restricted diffusion?,no,/kaggle/input/red-vqa-images/Images/rad_synpic44995.jpg,no
+rad_synpic27013,image normal?,no,/kaggle/input/red-vqa-images/Images/rad_synpic27013.jpg,no
+rad_synpic39088,evidence air fluid levels patient's bowel?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic39088.jpg,yes
+rad_synpic42210,trachea deviated?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic42210.jpg,pa
+rad_synpic29263,abnormality lungs?,no,/kaggle/input/red-vqa-images/Images/rad_synpic29263.jpg,no
+rad_synpic54795,temporal bones fractured?,no,/kaggle/input/red-vqa-images/Images/rad_synpic54795.jpg,no
+rad_synpic29771,skeletal joints ct?,no,/kaggle/input/red-vqa-images/Images/rad_synpic29771.jpg,no
+rad_synpic21776,represent adequate inspiratory effort?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic21776.jpg,yes
+rad_synpic30324,evidence fluid peritoneal cavity?,no,/kaggle/input/red-vqa-images/Images/rad_synpic30324.jpg,no
+rad_synpic31248,heart enlarged?,no,/kaggle/input/red-vqa-images/Images/rad_synpic31248.jpg,no
+rad_synpic24967,gallstones identifiable?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic24967.jpg,yes
+rad_synpic51212,blurring grey-white matter junction?,no,/kaggle/input/red-vqa-images/Images/rad_synpic51212.jpg,no
+rad_synpic47964,cut brain image taken?,axial,/kaggle/input/red-vqa-images/Images/rad_synpic47964.jpg,right
+rad_synpic26925,cerebellum view?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic26925.jpg,no
+rad_synpic41788,lesion infiltrating?,no,/kaggle/input/red-vqa-images/Images/rad_synpic41788.jpg,no
+rad_synpic39141,ectatic aneurysmal enlargement abdominal aorta?,no,/kaggle/input/red-vqa-images/Images/rad_synpic39141.jpg,no
+rad_synpic57520,contrast applied?,no,/kaggle/input/red-vqa-images/Images/rad_synpic57520.jpg,no
+rad_synpic24967,see kidneys image,yes,/kaggle/input/red-vqa-images/Images/rad_synpic24967.jpg,yes
+rad_synpic33378,patient pleural effusion?,no,/kaggle/input/red-vqa-images/Images/rad_synpic33378.jpg,no
+rad_synpic53574,sulci look abnormal image?,no,/kaggle/input/red-vqa-images/Images/rad_synpic53574.jpg,no
+rad_synpic51872,cavitary lesion located?,right upper lobe,/kaggle/input/red-vqa-images/Images/rad_synpic51872.jpg,pa
+rad_synpic15006,deviation trachea?,no,/kaggle/input/red-vqa-images/Images/rad_synpic15006.jpg,no
+rad_synpic57317,mass shift?,no,/kaggle/input/red-vqa-images/Images/rad_synpic57317.jpg,no
+rad_synpic40520,trachea located normally?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic40520.jpg,pa
+rad_synpic52828,image taken?,ct,/kaggle/input/red-vqa-images/Images/rad_synpic52828.jpg,with contrast
+rad_synpic32933,normal x ray?,no,/kaggle/input/red-vqa-images/Images/rad_synpic32933.jpg,no
+rad_synpic51709,side brain lesion on?,right,/kaggle/input/red-vqa-images/Images/rad_synpic51709.jpg,brain
+rad_synpic54004,finding normal?,no,/kaggle/input/red-vqa-images/Images/rad_synpic54004.jpg,no
+rad_synpic57368,hemisphere lesions located in?,bilateral,/kaggle/input/red-vqa-images/Images/rad_synpic57368.jpg,brain
+rad_synpic47191,mri image?,no,/kaggle/input/red-vqa-images/Images/rad_synpic47191.jpg,axial
+rad_synpic22967,>5 lymph nodes located near stomach?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic22967.jpg,yes
+rad_synpic53228,patient rotated?,no,/kaggle/input/red-vqa-images/Images/rad_synpic53228.jpg,no
+rad_synpic34947,plane section transverse?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic34947.jpg,yes
+rad_synpic26158,mass compressing inferior vena cava?,no,/kaggle/input/red-vqa-images/Images/rad_synpic26158.jpg,no
+rad_synpic47356,leakage blood?,no,/kaggle/input/red-vqa-images/Images/rad_synpic47356.jpg,no
+rad_synpic23571,appendix enlarged?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic23571.jpg,no
+rad_synpic51383,axial plane image,yes,/kaggle/input/red-vqa-images/Images/rad_synpic51383.jpg,yes
+rad_synpic22828,image taken x-ray?,no,/kaggle/input/red-vqa-images/Images/rad_synpic22828.jpg,axial
+rad_synpic39086,small bowel image?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic39086.jpg,yes
+rad_synpic40500,axial view brain?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic40500.jpg,yes
+rad_synpic31256,imaging modality seen?,x-ray,/kaggle/input/red-vqa-images/Images/rad_synpic31256.jpg,right
+rad_synpic34054,evidence inflammation?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic34054.jpg,yes
+rad_synpic50949,right kidney normal height abdomen?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic50949.jpg,no
+rad_synpic31248,hilar adenopathy?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic31248.jpg,no
+rad_synpic32108,pathology gallbladder?,no,/kaggle/input/red-vqa-images/Images/rad_synpic32108.jpg,axial
+rad_synpic27597,fat masses?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic27597.jpg,no
+rad_synpic53207,image axial plane?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic53207.jpg,yes
+rad_synpic32727,aorta view?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic32727.jpg,no
+rad_synpic41772,cyst right kidney?,no,/kaggle/input/red-vqa-images/Images/rad_synpic41772.jpg,no
+rad_synpic42210,cardiac silhouette enlarged?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic42210.jpg,yes
+rad_synpic24967,pericholecystic inflammation present?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic24967.jpg,yes
+rad_synpic25587,tracheal deviation present?,no,/kaggle/input/red-vqa-images/Images/rad_synpic25587.jpg,no
+rad_synpic47737,brain gyri atrophied?,no,/kaggle/input/red-vqa-images/Images/rad_synpic47737.jpg,no
+rad_synpic30215,kidneys appear normal?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic30215.jpg,no
+rad_synpic34017,involvement temporal lobes?,no,/kaggle/input/red-vqa-images/Images/rad_synpic34017.jpg,yes
+rad_synpic23008,air outside bowel walls?,no,/kaggle/input/red-vqa-images/Images/rad_synpic23008.jpg,yes
+rad_synpic43648,left kidney abnormal?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic43648.jpg,no
+rad_synpic49862,lesion demonstrate ring enhancement?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic49862.jpg,yes
+rad_synpic53097,mass calcified?,no,/kaggle/input/red-vqa-images/Images/rad_synpic53097.jpg,no
+rad_synpic52988,et tube properly placed?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic52988.jpg,no
+rad_synpic47783,width heart exceed half thorax?,no,/kaggle/input/red-vqa-images/Images/rad_synpic47783.jpg,no
+rad_synpic100228,evidence pleural effusion?,no,/kaggle/input/red-vqa-images/Images/rad_synpic100228.jpg,no
+rad_synpic35191,mri?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic35191.jpg,yes
+rad_synpic24248,patient ascites?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic24248.jpg,yes
+rad_synpic37275,enhancing lesion liver?,no,/kaggle/input/red-vqa-images/Images/rad_synpic37275.jpg,no
+rad_synpic40272,chest x ray taken pa format?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic40272.jpg,yes
+rad_synpic33689,evidence calcification pancreas?,no,/kaggle/input/red-vqa-images/Images/rad_synpic33689.jpg,no
+rad_synpic41050,evidence periappendiceal fluid fat stranding?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic41050.jpg,no
+rad_synpic12210,lungs appear hyperinflated?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic12210.jpg,no
+rad_synpic39301,mass effect present?,no,/kaggle/input/red-vqa-images/Images/rad_synpic39301.jpg,yes
+rad_synpic16174,evidence left lung field hyperinflation?,yes,/kaggle/input/red-vqa-images/Images/rad_synpic16174.jpg,yes
